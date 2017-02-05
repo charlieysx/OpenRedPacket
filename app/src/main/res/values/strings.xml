@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">微信抢红包</string>
+    <string name="open_redpacket_service_description">○ 微信抢红包辅助服务\n○ 辅助服务容易被系统杀掉，最好把本软件加入白名单以延长存活时间</string>
+</resources>
